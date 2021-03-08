@@ -1,5 +1,5 @@
 # pokedex
-Um estudo de javascript puro, com Roger Melo, na criação de um pokedex,ultilizando:
+Um estudo de javascript puro, com Roger Melo, na criação de um pokedex, utilizando:
 1. https://pokeapi.co/api/v2/pokemon/ | Api para pegar os pokemons
 1. Promises
 1. Arrow functions
